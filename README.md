@@ -19,3 +19,8 @@ https://play.google.com/store/apps/details?id=ru.handsapp.courierapp_courier <br
 https://play.google.com/store/apps/details?id=ru.app.alfasklad <br>
 Приложение складского хранения вещей <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/alfa.png?raw=true" alt="" />
+
+- 03.12.2020 <br>
+https://play.google.com/store/apps/details?id=ru.app.autovokzalrostov <br>
+Приложение для автовокзала города Ростов-на-Дону <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/arostv.png?raw=true" alt="" />
