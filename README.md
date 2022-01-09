@@ -44,3 +44,8 @@ https://play.google.com/store/apps/details?id=ru.moregifts.app <br>
 https://play.google.com/store/apps/details?id=ru.avs.express.android <br>
 Приложение для заказа электроматериалов <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/avs.png?raw=true" alt="" />
+
+- 09.01.2022 <br>
+https://play.google.com/store/apps/details?id=ru.wokandroll.deliveryfood <br>
+Приложение курьерской доставки <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/wr.png?raw=true" alt="" />
