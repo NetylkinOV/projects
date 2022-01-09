@@ -39,3 +39,8 @@ https://play.google.com/store/apps/details?id=ru.app.promoves <br>
 https://play.google.com/store/apps/details?id=ru.moregifts.app <br>
 Приложение для интернет-магазина <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/bp.png?raw=true" alt="" />
+
+- 09.01.2022 <br>
+https://play.google.com/store/apps/details?id=ru.avs.express.android <br>
+Приложение для заказа электроматериалов <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/avs.png?raw=true" alt="" />
