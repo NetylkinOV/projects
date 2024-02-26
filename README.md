@@ -54,3 +54,8 @@ https://play.google.com/store/apps/details?id=ru.wokandroll.deliveryfood <br>
 https://play.google.com/store/apps/details?id=ru.app.diagram <br>
 Соц. сеть для юных футболистов и скаутов <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/diagram.png?raw=true" alt="" />
+
+- 01.08.2023 <br>
+https://play.google.com/store/apps/details?id=app.turizm.ryzan <br>
+Развитие Туризма Рязанской области <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/tryzan.png?raw=true" alt="" />
