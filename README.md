@@ -74,3 +74,8 @@ https://play.google.com/store/apps/details?id=ru.app.stomapp&pli=1 <br>
 https://play.google.com/store/apps/details?id=ru.app.kaypro <br>
 Косметика <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/kedro.png?raw=true" alt="" />
+
+- 05.12.2023 <br>
+https://play.google.com/store/apps/details?id=ru.app.stomdom <br>
+Стоматология <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/istom.png?raw=true" alt="" />
