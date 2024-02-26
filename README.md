@@ -59,3 +59,8 @@ https://play.google.com/store/apps/details?id=ru.app.diagram <br>
 https://play.google.com/store/apps/details?id=app.turizm.ryzan <br>
 Развитие Туризма Рязанской области <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/tryzan.png?raw=true" alt="" />
+
+- 08.08.2023 <br>
+https://play.google.com/store/apps/details?id=app.citybrand.store <br>
+Магазин модных вещей <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/cityb.png?raw=true" alt="" />
