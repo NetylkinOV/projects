@@ -64,3 +64,8 @@ https://play.google.com/store/apps/details?id=app.turizm.ryzan <br>
 https://play.google.com/store/apps/details?id=app.citybrand.store <br>
 Магазин модных вещей <br>
 <img src="https://github.com/NetylkinOV/projects/blob/main/screens/cityb.png?raw=true" alt="" />
+
+- 15.09.2023 <br>
+https://play.google.com/store/apps/details?id=ru.app.stomapp&pli=1 <br>
+Стоматология <br>
+<img src="https://github.com/NetylkinOV/projects/blob/main/screens/stoma.png?raw=true" alt="" />
